@@ -1,0 +1,4 @@
+3.07.03.0
+7.0Capacitor value: 3.0
+Capacitor value: 7.0Capacitor value: 3.0
+Capacitor value: 7.0
